@@ -2,6 +2,10 @@
     margin-bottom: 100px;
 }
 
+.navbar {
+    padding: 0% 9%;
+}
+
 .pink-bg {
     background-color: #feeae9;
     border-radius: 15px;
